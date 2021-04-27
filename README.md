@@ -1,5 +1,5 @@
 <!--Introduction -->
-Eu sou Gisele! Estudante de Analise de Sistemas, atualmente pesquisadora de IC no Observatório Nacional em **Astrofísica Extragaláctica**, atuo como **Software Developer Consultant**, sou direitora de ações no projeto **Meninas Digitais - UFBA** e **Desenvolvedora Java** no coletivo **codivas** :smile:.
+Eu sou Gisele! Estudante de Analise de Sistemas, atualmente pesquisadora de ICT no Observatório Nacional em **Astrofísica Extragaláctica com Python**, atuo como **Software Developer Consultant**, sou direitora de ações no projeto **Meninas Digitais - UFBA** e **Desenvolvedora Java** no coletivo **codivas** :smile:.
 Além disso, sou entusiasta na área de ciencia de dados e machine learning. 
 <br>
 

@@ -1,6 +1,5 @@
 <!--Introduction -->
-Eu sou Gisele! Estudante de Analise de Sistemas, atualmente pesquisadora de ICT no Observatório Nacional em **Astrofísica Extragaláctica com Python**, atuo como **Software Developer Consultant**, sou direitora de ações no projeto **Meninas Digitais - UFBA** e **Desenvolvedora Java** no coletivo **codivas** :smile:.
-Além disso, sou entusiasta na área de ciencia de dados e machine learning. 
+Hello :) I am Gisele. Student of Systems Analysis and Intern at Iteris. I'm the share owner in the Project **Meninas Digitais - UFBA** and Freelancer in the Collective **codivas**
 <br>
 
 
@@ -9,18 +8,18 @@ Além disso, sou entusiasta na área de ciencia de dados e machine learning.
 [![Gmail](https://img.shields.io/badge/-giselesouza-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:giselesouza.dev@outlook.com)
 
 <!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=munizzele&style=flat)
-[![Github](https://img.shields.io/badge/-GiseleMuniz-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/munizzele)
+![](https://komarev.com/ghpvc/?username=giselessouza&style=flat)
+[![Github](https://img.shields.io/badge/-GiseleMuniz-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/giselessouza)
 
 <!-- gif Image -->
 <img src="https://media3.giphy.com/media/LmNwrBhejkK9EFP504/200.gif" alt="side Image" align="right" width="300" height="auto" />
 
-<h3 align="left">🤝🏻 Se conecte comigo:</h3>
+<h3 align="left">🤝🏻 Connect:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gisele-muniz-969b84169/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gisele-muniz-969b84169/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🧠 My tech stacks:</h3>
+<h3 align="left">🧠 What am i learning:</h3>
 <p align="left"> 
 <a target="_blank"> <img src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667" alt="java" width="40" height="40"/> </a>
  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
@@ -44,5 +43,5 @@ Além disso, sou entusiasta na área de ciencia de dados e machine learning.
     <a target="_blank"> <img src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667" alt="html" width="40" height="40"/> </a> 
 </p>
 
-![Oktay's GitHub stats](https://github-readme-stats.vercel.app/api?username=munizzele&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munizzele&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Oktay's GitHub stats](https://github-readme-stats.vercel.app/api?username=giselessouza&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselessouza&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)

@@ -12,7 +12,6 @@ Hello :) I am Gisele. Student of Systems Analysis and Intern at Iteris. I'm the 
 [![Github](https://img.shields.io/badge/-GiseleMuniz-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/giselessouza)
 
 <!-- gif Image -->
-<img src="https://media3.giphy.com/media/LmNwrBhejkK9EFP504/200.gif" alt="side Image" align="right" width="300" height="auto" />
 
 <h3 align="left">🤝🏻 Connect:</h3>
 <p align="left">

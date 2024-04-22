@@ -1,5 +1,5 @@
 <!--Introduction -->
-Hello :) I am Gisele. Student of Systems Analysis and Intern at Iteris. I'm the share owner in the Project **Meninas Digitais - UFBA** and Freelancer in the Collective **codivas**
+Hello :) I am Gisele.
 <br>
 
 
